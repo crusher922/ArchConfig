@@ -22,6 +22,7 @@ by Stephan Raabe (2023)
  * {
 	 font-family: "Fira Sans Semibold", FontAwesome, Roboto, Helvetica, Arial, sans-serif;
 	 background-image: none;
+	 color: aliceblue;
  }
 
  button {
@@ -39,7 +40,7 @@ by Stephan Raabe (2023)
 	 background-repeat: no-repeat;
 		 background-position: center;
 		 background-size: 20%;
-		 background-color: rgba(200, 208, 255, 0.253);
+		 background-color: rgba(73, 79, 116, 0.8);
 		 animation: gradient_f 20s ease-in infinite;
 		 border-radius: 80px; /* Increased border radius for a more rounded look */
 	 border:0px;
