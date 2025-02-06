@@ -1,0 +1,16 @@
+BraveSoftware/
+Code - OSS/
+QtProject.conf
+dconf/
+go/
+kde.org/
+kwalletrc
+dolphinrc
+mc/
+mimeapps.list
+pulse/
+session/
+user-dirs.dirs
+user-dirs.locale
+zellij/
+
